@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://ujwal5.github.io/Portfolio_website/]([https://ujwal5.github.io/Portfolio_website/](https://ujwalpathakportfolio.my.canva.site/))
+- 👨‍💻 All of my projects are available at [https://ujwalpathakportfolio.my.canva.site/]
 
 - 💬 Ask me about **Python**
 
